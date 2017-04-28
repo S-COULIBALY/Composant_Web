@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["\/sZSy"]); }
+
+__d('bs_js_exn',['bs_caml_exceptions'],(function a(b,c,d,e,f,g){'use strict';var h=c('bs_caml_exceptions').create("Js_exn.Error");function i(q){if(c('bs_caml_exceptions').isCamlExceptionOrOpenVariant(q)){return q;}else return [h,q];}function j(q){throw new Error(q);}function k(q){throw new EvalError(q);}function l(q){throw new RangeError(q);}function m(q){throw new RerferenceError(q);}function n(q){throw new SyntaxError(q);}function o(q){throw new TypeError(q);}function p(q){throw new URIError(q);}g.$$Error=h;g.internalToOCamlException=i;g.raiseError=j;g.raiseEvalError=k;g.raiseRangeError=l;g.raiseReferenceError=m;g.raiseSyntaxError=n;g.raiseTypeError=o;g.raiseUriError=p;}),null);

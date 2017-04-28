@@ -1,0 +1,210 @@
+/* HAUTEUR VIDE */
+.vertical-spacer{
+  height: 1em;
+}
+
+.logo-facebook{
+  border: 1px solid #468bdb;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  margin: 20px;
+
+
+}
+
+            .fa-facebook{
+              font-size: 50px;
+              padding:30px ;
+              position: absolute;
+              left: 5px;
+
+
+
+
+            }
+
+            .fa-facebook:hover{
+              color: #468bdb;
+            }
+
+
+
+.logo-google-plus{
+  border: 1px solid #D44A36;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  margin: 20px;
+
+
+}
+
+            .fa-google-plus{
+              font-size: 50px;
+              padding:25px ;
+              color:#D44A36;
+
+
+            }
+
+            .fa-google-plus:hover{
+              color: #ff5842
+            }
+
+
+.logo-twitter{
+  border: 1px solid #00c5fc;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+}
+
+            .fa-twitter{
+              font-size: 50px;
+              color: #00c5fc;
+              padding:28px;
+
+
+
+            }
+
+            .fa-twitter:hover{
+              color: #43D5FE;
+
+            }
+
+
+
+.logo-youtube{
+  border: 1px solid #EE0024;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+}
+
+            .fa-youtube{
+              font-size: 50px;
+              color: #EE0024;
+              padding:25px;
+            }
+
+            .fa-youtube:hover{
+              color: #ff1639;
+
+            }
+
+
+
+.logo-github{
+  border: 1px solid #0D2636;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+}
+
+            .fa-github{
+              font-size: 70px;
+              color: #0D2636;
+              padding:15px;
+
+
+
+            }
+
+
+            .fa-github:hover{
+              color: #2d8cc6 ;
+
+
+            }
+
+
+.logo-instagram{
+  border: 1px solid #537FA1;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+}
+
+              .fa-instagram{
+                font-size: 50px;
+                color: #537FA1;
+                padding:25px;
+              }
+
+              .fa-instagram:hover{
+                font-size: 50px;
+                color: #6ba3ce;
+                padding:30px;
+              }
+
+
+.logo-linkedin{
+  border: 1px solid #009CCD;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+}
+
+              .fa-linkedin{
+                font-size: 50px;
+                color: #009CCD;
+                padding:20px;
+                left: 10px;
+              }
+
+              .fa-linkedin:hover{
+                color: #02c4ff;
+
+              }
+
+
+.logo-viadeo{
+  border: 1px solid #EE7356;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  border-radius: 50%;
+  text-align: center;
+  margin: 20px;
+
+
+}
+
+              .fa-viadeo{
+                font-size: 60px;
+                color: #EE7356;
+                padding:15px;
+                left: 30px;
+              }
+
+
+              .fa-viadeo:hover{
+                color: #ff3b0f;
+
+              }
+
+

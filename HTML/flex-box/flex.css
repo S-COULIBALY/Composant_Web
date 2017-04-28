@@ -1,0 +1,36 @@
+
+img{
+  width: 150px;
+  height: 150px;
+}
+
+
+
+.main{
+
+  height: 250px;
+  width: 1900px;
+  border: 2px solid #a3cffc;
+  display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+
+
+}
+
+.main-right{
+  display: flex;
+  height: 150px;
+  width: 600px;
+  border: 2px solid #a3cffc;
+  justify-content: space-around;
+
+
+
+
+}
+
+
+
+

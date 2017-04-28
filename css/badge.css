@@ -1,0 +1,84 @@
+
+
+/* HAUTEUR VIDE */
+.vertical-spacer{
+  height: 20em;
+}
+
+.badge-container{
+  height: 100px;
+  width: 700px;
+  border: 1px solid red;
+  position: relative;
+    }
+
+
+
+
+
+.avatar-small{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid black;
+  position: absolute;
+    left: 300px;
+    top: 25px;
+
+
+
+}
+
+
+.fa-envelope-o{
+  font-size: 40px;
+  color: #a3cffc;
+  position: absolute;
+    left: 300px;
+    top: 25px;
+    font-weight: bold;
+
+}
+
+.badge-m{
+  color: white;
+  font-weight: bold;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 10px;
+  padding: 3px 0px;
+    position: absolute;
+      left: 330px;
+      top: 20px;
+
+
+
+
+
+
+}
+
+.badge-3{
+  color: white;
+  font-weight: bold;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 10px;
+  padding: 3px 0px;
+   position: absolute;
+    left: 325px;
+    top: 25px;
+
+
+
+
+
+}
+
+
